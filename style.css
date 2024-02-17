@@ -1,3 +1,6 @@
+a {
+	text-decoration:none;
+}
 body {
   padding-top: 2%;
 }
@@ -34,7 +37,7 @@ th:last-child, td:last-child {
 .social {
   width: 32px;
   height: 32px;
-	padding: 0px 10px 0px 10px;
+  padding: 0px 10px 0px 10px;
 }
 :root {
   --darkgreen: #46a736;
